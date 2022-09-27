@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+header{
+    position:  relative;
+    padding-left:  100px;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+.lists {
+  display: flex;
+  color: #0014ff;
+  list-style-type: none;
+  text-align: center;
+}
+
+.list {
+    color: #0014ff;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.introductions{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.introduction {
+   display: flex
+}
+
+.chobies {
+  padding-left: 50px;
+  text-align: left;
+}
+
+}
+
+.img {
+    width: 300px
+}
+
+.untitti{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.unti {
+   display: flex
+}
+
+.unt {
+  padding-left: 50px;
+  text-align: left;
+}
+
+}
+
+.img {
+    width: 300px
+}
+
+.texts {
+ width: 90%;    
+}
+
+.text {
+ width: 90%;    
+}
+
+.footer {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
